@@ -1,5 +1,15 @@
 # 📝 Laboratorio 1: Layout de Calculadora con Jetpack Compose
 
+## 👤 Datos del Estudiante
+
+**Completa la siguiente información antes de comenzar:**
+
+- **Nombre completo**: _____________________________
+- **Carrera**: _____________________________
+- **Fecha de entrega**: _____________________________
+
+---
+
 ## Objetivo
 
 El objetivo de este laboratorio es que los estudiantes creen un layout completo de una calculadora usando Jetpack Compose, incluyendo:
@@ -221,3 +231,11 @@ Al finalizar, cada estudiante debería poder:
 - Ver un TextField en la parte superior que refleja el texto ingresado.
 - Ver una cuadrícula de 4×4 botones debajo del TextField.
 - Interactuar con los botones y ver cómo se actualiza la pantalla.
+
+
+### 6️⃣ Datos del docente
+
+Para cualquier inquietud de este ejercicio puedes contactar al docente
+
+- UISEK - Google Chat: pablo.perez@uisek.edu.ec
+- PUCE - Microsoft Teams: paperez@puce.edu.ec
